@@ -4,3 +4,6 @@
 [submodule "bundle/NERD-Commenter"]
 	path = bundle/NERD-Commenter
 	url = http://github.com/vim-scripts/The-NERD-Commenter.git
+[submodule "bundle/grep"]
+	path = bundle/grep
+	url = http://github.com/vim-scripts/grep.vim.git
