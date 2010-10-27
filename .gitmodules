@@ -10,3 +10,6 @@
 [submodule "bundle/Sorceror"]
 	path = bundle/Sorceror
 	url = http://github.com/vim-scripts/Sorceror.git
+[submodule "bundle/git-vim"]
+	path = bundle/git-vim
+	url = http://github.com/motemen/git-vim.git
