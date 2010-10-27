@@ -7,3 +7,6 @@
 [submodule "bundle/grep"]
 	path = bundle/grep
 	url = http://github.com/vim-scripts/grep.vim.git
+[submodule "bundle/Sorceror"]
+	path = bundle/Sorceror
+	url = http://github.com/vim-scripts/Sorceror.git
