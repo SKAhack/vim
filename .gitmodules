@@ -40,3 +40,9 @@
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = http://github.com/tpope/vim-surround.git
+[submodule "bundle/rdark"]
+	path = bundle/rdark
+	url = http://github.com/vim-scripts/rdark.git
+[submodule "bundle/rdark-terminal"]
+	path = bundle/rdark-terminal
+	url = http://github.com/vim-scripts/rdark-terminal.git
