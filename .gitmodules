@@ -16,3 +16,30 @@
 [submodule "bundle/rdark-terminal"]
 	path = bundle/rdark-terminal
 	url = http://github.com/vim-scripts/rdark-terminal.git
+[submodule "bundle/Align"]
+	path = bundle/Align
+	url = http://github.com/vim-scripts/Align.git
+[submodule "bundle/The-NERD-Commenter"]
+	path = bundle/The-NERD-Commenter
+	url = http://github.com/vim-scripts/The-NERD-Commenter.git
+[submodule "bundle/YankRing"]
+	path = bundle/YankRing
+	url = http://github.com/vim-scripts/YankRing.vim.git
+[submodule "bundle/fuf"]
+	path = bundle/fuf
+	url = http://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/l9"]
+	path = bundle/l9
+	url = http://github.com/vim-scripts/L9.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = http://github.com/vim-scripts/matchit.zip.git
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = http://github.com/Shougo/neocomplcache.git
+[submodule "bundle/quickrun"]
+	path = bundle/quickrun
+	url = http://github.com/thinca/vim-quickrun.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround.git
