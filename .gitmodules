@@ -16,9 +16,6 @@
 [submodule "bundle/Align"]
 	path = bundle/Align
 	url = http://github.com/vim-scripts/Align.git
-[submodule "bundle/NERD-Commenter"]
-	path = bundle/NERD-Commenter
-	url = http://github.com/vim-scripts/The-NERD-Commenter.git
 [submodule "bundle/YankRing"]
 	path = bundle/YankRing
 	url = http://github.com/vim-scripts/YankRing.vim.git
