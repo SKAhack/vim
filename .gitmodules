@@ -4,9 +4,6 @@
 [submodule "bundle/grep"]
 	path = bundle/grep
 	url = http://github.com/vim-scripts/grep.vim.git
-[submodule "bundle/Sorceror"]
-	path = bundle/Sorceror
-	url = http://github.com/vim-scripts/Sorceror.git
 [submodule "bundle/git-vim"]
 	path = bundle/git-vim
 	url = http://github.com/motemen/git-vim.git
@@ -25,12 +22,6 @@
 [submodule "bundle/YankRing"]
 	path = bundle/YankRing
 	url = http://github.com/vim-scripts/YankRing.vim.git
-[submodule "bundle/fuf"]
-	path = bundle/fuf
-	url = http://github.com/vim-scripts/FuzzyFinder.git
-[submodule "bundle/l9"]
-	path = bundle/l9
-	url = http://github.com/vim-scripts/L9.git
 [submodule "bundle/matchit"]
 	path = bundle/matchit
 	url = http://github.com/vim-scripts/matchit.zip.git
@@ -43,3 +34,9 @@
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = http://github.com/tpope/vim-surround.git
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "bundle/unite-outline"]
+	path = bundle/unite-outline
+	url = https://github.com/h1mesuke/unite-outline.git
