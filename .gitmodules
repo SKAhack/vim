@@ -40,3 +40,9 @@
 [submodule "bundle/unite-outline"]
 	path = bundle/unite-outline
 	url = https://github.com/h1mesuke/unite-outline.git
+[submodule "bundle/neocomplcache-ghc"]
+	path = bundle/neocomplcache-ghc
+	url = https://github.com/ujihisa/neco-ghc.git
+[submodule "bundle/vimproc"]
+	path = bundle/vimproc
+	url = https://github.com/Shougo/vimproc.git
