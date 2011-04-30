@@ -1,19 +1,9 @@
 "
 " ~/.vimrc
 " ===================================
-" source ~/path_to_/vimrc
 "
-set runtimepath+=$HOME/path_to_/vim/
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
-
-
-if has("gui_running")
-  colorscheme rdark
-  set columns=120
-  set lines=500
-  set guioptions-=T
-endif
+let $MY_RUNTIMEPATH = '~/my/runtimepath'
+source $MY_RUNTIMEPATH/vimrc
 
 " vim: expandtab softtabstop=2 shiftwidth=2
 " vim: foldmethod=marker
