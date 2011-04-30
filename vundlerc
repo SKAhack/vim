@@ -1,0 +1,31 @@
+set nocompatible
+filetype off
+
+set runtimepath+=~/Dropbox/applications/vim/vundle.git/
+call vundle#rc()
+
+"
+" Bundles
+"
+" original repos
+Bundle 'motemen/git-vim'
+Bundle 'Shougo/neocomplcache'
+Bundle 'ujihisa/neco-ghc'
+Bundle 'thinca/vim-quickrun'
+Bundle 'tpope/vim-surround'
+Bundle 'h1mesuke/unite-outline'
+Bundle 'Shougo/unite.vim'
+Bundle 'Shougo/vimproc'
+" vim-scripts repos
+Bundle 'Align'
+Bundle 'The-NERD-Commenter'
+Bundle 'YankRing.vim'
+Bundle 'grep.vim'
+Bundle 'matchit.zip'
+Bundle 'rdark'
+Bundle 'rdark-terminal'
+
+filetype plugin indent on
+
+" vim: expandtab softtabstop=2 shiftwidth=2
+" vim: foldmethod=marker filetype=vim

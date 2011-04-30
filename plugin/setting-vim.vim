@@ -17,7 +17,6 @@ colorscheme rdark-terminal
 
 syntax on
 
-filetype plugin on
 
 " vim: expandtab softtabstop=2 shiftwidth=2
 " vim: foldmethod=marker
