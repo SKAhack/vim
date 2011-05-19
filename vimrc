@@ -1,11 +1,11 @@
 
 source $MY_RUNTIMEPATH/vundlerc
 
+source $MY_RUNTIMEPATH/mysettings/setting-vim.vim
+source $MY_RUNTIMEPATH/mysettings/setting-keymap.vim
+source $MY_RUNTIMEPATH/mysettings/setting-statusbar.vim
+source $MY_RUNTIMEPATH/mysettings/setting-plugin-unite.vim
+source $MY_RUNTIMEPATH/mysettings/setting-plugin-neocomplcache.vim
+
 set runtimepath+=$MY_RUNTIMEPATH
 
-if has("gui_running")
-  colorscheme rdark
-  set columns=120
-  set lines=500
-  set guioptions-=T
-endif
