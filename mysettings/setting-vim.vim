@@ -6,8 +6,8 @@ set nobackup
 set number
 set ruler
 set autoindent
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set softtabstop=0
 set mouse=a
 set t_Co=256

@@ -1,22 +1,29 @@
 set nocompatible
 filetype off
 
-set runtimepath+=~/Dropbox/applications/vim/vundle.git/
+set runtimepath+=~/.vim/bundle/vundle
 call vundle#rc()
 
 "
 " Bundles
 "
 " original repos
-Bundle 'motemen/git-vim'
+Bundle "gmarik/vundle"
+Bundle "motemen/git-vim"
 Bundle 'Shougo/neocomplcache'
+Bundle 'Shougo/clang_complete'
 Bundle 'ujihisa/neco-ghc'
 Bundle 'thinca/vim-quickrun'
 Bundle 'tpope/vim-surround'
 Bundle 'h1mesuke/unite-outline'
 Bundle 'Shougo/unite.vim'
 Bundle 'Shougo/vimproc'
+Bundle 'Shougo/vimshell'
+Bundle 'Shougo/vimfiler'
 Bundle 'tpope/vim-fugitive'
+"Bundle 'Lokaltog/vim-easymotion'
+Bundle 'kchmck/vim-coffee-script'
+"Bundle 'msanders/cocoa.vim'
 " vim-scripts repos
 Bundle 'Align'
 Bundle 'The-NERD-Commenter'
