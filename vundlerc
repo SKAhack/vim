@@ -7,24 +7,33 @@ call vundle#rc()
 "
 " Bundles
 "
-" original repos
 Bundle "gmarik/vundle"
-Bundle "motemen/git-vim"
+
+" original repos
 Bundle 'Shougo/neocomplcache'
-Bundle 'Shougo/clang_complete'
+Bundle 'motemen/git-vim'
 Bundle 'ujihisa/neco-ghc'
 Bundle 'thinca/vim-quickrun'
 Bundle 'tpope/vim-surround'
 Bundle 'h1mesuke/unite-outline'
 Bundle 'Shougo/unite.vim'
 Bundle 'Shougo/vimproc'
-Bundle 'Shougo/vimshell'
-Bundle 'Shougo/vimfiler'
 Bundle 'tpope/vim-fugitive'
-"Bundle 'Lokaltog/vim-easymotion'
 Bundle 'kchmck/vim-coffee-script'
-"Bundle 'msanders/cocoa.vim'
-" vim-scripts repos
+Bundle 'mattn/webapi-vim'
+Bundle 'tyru/open-browser.vim'
+Bundle 'ujihisa/unite-haskellimport'
+Bundle 'Rip-Rip/clang_complete'
+Bundle 'osyo-manga/neocomplcache-clang_complete'
+Bundle 'eagletmt/ghcmod-vim'
+Bundle 'kien/ctrlp.vim'
+" Bundle 'Shougo/vimshell'
+" Bundle 'sickill/vim-pasta'
+" Bundle 'Shougo/vimfiler'
+" Bundle 'Lokaltog/vim-easymotion'
+" Bundle 'msanders/cocoa.vim'
+
+" vim-script's repos
 Bundle 'Align'
 Bundle 'The-NERD-Commenter'
 Bundle 'YankRing.vim'

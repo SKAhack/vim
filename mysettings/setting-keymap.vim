@@ -11,5 +11,10 @@ inoremap <C-v> <Esc>"+pa
 
 noremap <Space>w <C-w>_
 
+"
+"
+"
+let g:ctrlp_map = '<Space>p'
+
 " vim: expandtab softtabstop=2 shiftwidth=2
 " vim: foldmethod=marker

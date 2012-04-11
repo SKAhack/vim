@@ -1,4 +1,4 @@
-setlocal ts=2 sts=2 sw=2 expandtab
+setlocal ts=4 sts=4 sw=4 expandtab
 
 " http://urchin.earth.li/~ian/style/vim.html
 syn cluster hsRegions add=hsImport,hsLineComment,hsBlockComment,hsPragma
